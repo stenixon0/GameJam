@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/mono_1.tmx-8580a3e219663f58d77e62f555d71d38.scn"
+
+[deps]
+
+source_file="res://Assets/1bitpack_kenney/Tilemap/mono_1.tmx"
+dest_files=[ "res://.import/mono_1.tmx-8580a3e219663f58d77e62f555d71d38.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=7
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""

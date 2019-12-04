@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/door.tmx-3e807faf86ab155c37c0329bd1de4d3e.scn"
+
+[deps]
+
+source_file="res://Assets/1bitpack_kenney/Tilemap/door.tmx"
+dest_files=[ "res://.import/door.tmx-3e807faf86ab155c37c0329bd1de4d3e.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=7
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""

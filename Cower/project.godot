@@ -16,12 +16,13 @@ _global_script_class_icons={
 [application]
 
 config/name="Cower"
+run/main_scene="res://Scenes/Tutorial.tscn"
 config/icon="res://icon.png"
 
 [display]
 
-window/size/width=320
-window/size/height=180
+window/size/width=720
+window/size/height=480
 
 [editor_plugins]
 

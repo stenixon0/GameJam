@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/car.tmx-b8bd50d3c88be21df935dc956957ba8d.scn"
+
+[deps]
+
+source_file="res://Assets/1bitpack_kenney/Tilemap/car.tmx"
+dest_files=[ "res://.import/car.tmx-b8bd50d3c88be21df935dc956957ba8d.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=7
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""

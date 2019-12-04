@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/LevelTwo.tmx-b58eab1b2b3080106115181aaa902261.scn"
+
+[deps]
+
+source_file="res://Assets/1bitpack_kenney/Tilemap/LevelTwo.tmx"
+dest_files=[ "res://.import/LevelTwo.tmx-b58eab1b2b3080106115181aaa902261.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=7
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""
